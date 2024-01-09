@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLJLLDWaSSncyZDXwSVCyBLOu6vbSKdZMw0VQBdA62XwgR5ndGQQ2wFnYL4l/bpyVdMJhyqXmSQAHFm4deBypg==",
+  "dgSpecHash": "eqdR7LIyCplsGkRh0k+YVyUVSdkdYhbzNgaoOqn0ZE5pWd4mcag1nlz4yfWcRcwkUuNsxC1dzBwXaae7bE3w1g==",
   "success": true,
-  "projectFilePath": "/Users/kylejohnston/dev/dotnet-azure-training/TodoApi/TodoApi.csproj",
+  "projectFilePath": "/Users/kylejohnston/dev/dotnet-azure-training/TodoApi.csproj",
   "expectedPackageFiles": [
     "/Users/kylejohnston/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/kylejohnston/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
